@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Coffee Shop Website](https://github.com/dabrerodney/coffee-shop)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter****React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
